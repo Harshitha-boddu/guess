@@ -31,7 +31,6 @@ function Game() {
     } else {
       setMessage("Enter a number!");
     }
-    
   };
 
   const restartGame = () => {
@@ -44,7 +43,7 @@ function Game() {
 
   return (
     <div className="game">
-      <h1 className="down">Guess The Number ?</h1>
+      <h1 className="down">Guess The values ?</h1>
 
       <input
         type="number"
