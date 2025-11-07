@@ -43,7 +43,7 @@ function Game() {
 
   return (
     <div className="game">
-      <h1 className="down">Guess The values ?</h1>
+      <h1 className="down">Guess The numbers ?</h1>
 
       <input
         type="number"
